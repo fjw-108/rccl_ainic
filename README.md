@@ -145,8 +145,8 @@ After all groups finish, the script prints a bandwidth summary table:
 === BANDWIDTH SUMMARY TABLE ===
 Group      all_reduce Result (GB/s)
 ----------  ----------------------
-Group 1    412.5
-Group 2    398.1
+Group 1    380.5
+Group 2    382.1
 ```
 
 The reported value is the **bus bandwidth** (`busbw`) extracted from the 16G (17179869184 bytes) message size result line.
